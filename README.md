@@ -34,7 +34,20 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/CwZIB1a.png"80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go into azure 
+Go to virtual machines 
+Make virtual machine 
+with area (east US)
+Windows 10 pro
+Name VM - Osticket
+2 computer system 
+
+Click unchecked boxes
+Create
+
+
+Open and log into other computer
+With Microsoft Remote Desktop with public IP address 
 </p>
 <br />
 
@@ -42,7 +55,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://imgur.com/UgkooCl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once logged in 
+Go to control panel - programs - IIS
+Turn on CGI 
 </p>
 <br />
 
@@ -50,43 +65,66 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://imgur.com/6MmGKvs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Upload IIS URL rewrite mod
+
 </p>
 <img src="https://imgur.com/RadqjFP.png"
+</p>
+Create PHP folder in windows(C:)
+
+<p>
 <br />
 
 </p>
 <img src="https://imgur.com/Q86YxLn.png"
 </p>
+Download PHP win and extra file into
+PHP folder you made
+<p>
 <br />
 
 </p>
 <img src="https://imgur.com/mzRl94O.png"
+</p>
+Open IIS
+And set up osTicker after downloading it
 </p>
 <br />
 
 </p>
 <img src="https://imgur.com/Xi4OQ7E.png"
 </p>
+Move upload folder in osticket folder into wwwroot folder that’s in inetpub
+</p>
 <br />
 
 </p>
 <img src="https://imgur.com/jURsGc0.png"
+</p>
+Move upload folder in osticket folder into wwwroot folder that’s in inetpub
 </p>
 <br />
 
 </p>
 <img src="https://imgur.com/e3naBY5.png"
 </p>
+Open IIS and enable php.opache
+</p>
 <br />
 
 </p>
 <img src="https://imgur.com/2ikyPWJ.png"
 </p>
+Open permission tab in osticket folder
+And open permission to everyone 
+</p>
 <br />
 
 </p>
 <img src="https://imgur.com/t6ljYlc.png"
+</p>
+Open osticket in web browser 
+And create an account
 </p>
 <br />
 
